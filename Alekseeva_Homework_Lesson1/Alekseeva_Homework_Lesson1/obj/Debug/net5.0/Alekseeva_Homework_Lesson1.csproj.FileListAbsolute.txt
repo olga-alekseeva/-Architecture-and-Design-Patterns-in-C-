@@ -1,0 +1,16 @@
+E:\Homeworks\Architecture and Patterns\Alekseeva_Homework_Lesson1\Alekseeva_Homework_Lesson1\bin\Debug\net5.0\Alekseeva_Homework_Lesson1.exe
+E:\Homeworks\Architecture and Patterns\Alekseeva_Homework_Lesson1\Alekseeva_Homework_Lesson1\bin\Debug\net5.0\Alekseeva_Homework_Lesson1.deps.json
+E:\Homeworks\Architecture and Patterns\Alekseeva_Homework_Lesson1\Alekseeva_Homework_Lesson1\bin\Debug\net5.0\Alekseeva_Homework_Lesson1.runtimeconfig.json
+E:\Homeworks\Architecture and Patterns\Alekseeva_Homework_Lesson1\Alekseeva_Homework_Lesson1\bin\Debug\net5.0\Alekseeva_Homework_Lesson1.runtimeconfig.dev.json
+E:\Homeworks\Architecture and Patterns\Alekseeva_Homework_Lesson1\Alekseeva_Homework_Lesson1\bin\Debug\net5.0\Alekseeva_Homework_Lesson1.dll
+E:\Homeworks\Architecture and Patterns\Alekseeva_Homework_Lesson1\Alekseeva_Homework_Lesson1\bin\Debug\net5.0\ref\Alekseeva_Homework_Lesson1.dll
+E:\Homeworks\Architecture and Patterns\Alekseeva_Homework_Lesson1\Alekseeva_Homework_Lesson1\bin\Debug\net5.0\Alekseeva_Homework_Lesson1.pdb
+E:\Homeworks\Architecture and Patterns\Alekseeva_Homework_Lesson1\Alekseeva_Homework_Lesson1\obj\Debug\net5.0\Alekseeva_Homework_Lesson1.csproj.AssemblyReference.cache
+E:\Homeworks\Architecture and Patterns\Alekseeva_Homework_Lesson1\Alekseeva_Homework_Lesson1\obj\Debug\net5.0\Alekseeva_Homework_Lesson1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Homeworks\Architecture and Patterns\Alekseeva_Homework_Lesson1\Alekseeva_Homework_Lesson1\obj\Debug\net5.0\Alekseeva_Homework_Lesson1.AssemblyInfoInputs.cache
+E:\Homeworks\Architecture and Patterns\Alekseeva_Homework_Lesson1\Alekseeva_Homework_Lesson1\obj\Debug\net5.0\Alekseeva_Homework_Lesson1.AssemblyInfo.cs
+E:\Homeworks\Architecture and Patterns\Alekseeva_Homework_Lesson1\Alekseeva_Homework_Lesson1\obj\Debug\net5.0\Alekseeva_Homework_Lesson1.csproj.CoreCompileInputs.cache
+E:\Homeworks\Architecture and Patterns\Alekseeva_Homework_Lesson1\Alekseeva_Homework_Lesson1\obj\Debug\net5.0\Alekseeva_Homework_Lesson1.dll
+E:\Homeworks\Architecture and Patterns\Alekseeva_Homework_Lesson1\Alekseeva_Homework_Lesson1\obj\Debug\net5.0\ref\Alekseeva_Homework_Lesson1.dll
+E:\Homeworks\Architecture and Patterns\Alekseeva_Homework_Lesson1\Alekseeva_Homework_Lesson1\obj\Debug\net5.0\Alekseeva_Homework_Lesson1.pdb
+E:\Homeworks\Architecture and Patterns\Alekseeva_Homework_Lesson1\Alekseeva_Homework_Lesson1\obj\Debug\net5.0\Alekseeva_Homework_Lesson1.genruntimeconfig.cache
